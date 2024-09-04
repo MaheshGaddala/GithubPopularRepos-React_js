@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+.heading {
+  color: #0f172a;
+  font-size: 100px;
+  font-weight: bold;
+  font-family: 'Lobster';
+}
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+}
